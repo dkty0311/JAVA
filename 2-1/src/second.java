@@ -11,5 +11,7 @@ public class second {
 		else
 			System.out.println("범위 외의 좌표입니다");
 		
+		sc.close();
+		
 	}
 }
